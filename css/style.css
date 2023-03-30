@@ -1,0 +1,13 @@
+#div-1{
+    width: 150px;
+    height: 150px;
+    background-color: #58545a;
+    border-radius: 25px;
+    top: 150px;
+    position: relative;
+    margin: auto;
+}
+
+#texto{
+    color: #c76067;
+}
